@@ -1,0 +1,435 @@
+{% extends "base.html" %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block title %}公文自动生成器{% endblock %}
+
+{% block page_content %}
+
+<img src="{{ url_for('static', filename='scir(已去底).png')}}" align="right" width="150" hspace="5" vspace="5" style="padding-top: 30px">
+<div class="page-header">
+    <a href="/" style="text-decoration-line:none;color: #283966"><h2>公文自动生成器</h2></a>
+</div>
+
+<script type="text/javascript" src="http://static.solaridc.com/jquery/jquery-lasted-min.js"></script>
+<script src="https://cdn.bootcss.com/layer/3.0.1/layer.js" type="text/javascript" charset="utf-8"></script>
+<link rel="stylesheet" type="text/css" href="../static/wbox/wbox/wbox.css">
+<script type="text/javascript" src="../static/wbox/wbox.js"></script>
+
+
+<div class = 'wtf'>
+    <div id="delete" onclick="deleteText()"></div>
+    <div id="copy" onclick="copyText()"></div>
+{#http://39.98.138.178:45800/#}
+    <form action = "http://localhost:5000/" method = "post">
+{#    <form action = "http://39.98.138.178:45800/" method = "post">#}
+        <input class="btn btn-default" id="submit" name="submit" type="submit" value="生成">
+        <div class = 'left'>
+            <div style="display: inline-block">
+                <div class="text" style="top:10px;">疫情相关</div>
+                <label class="switch">
+                    <input type="checkbox" id="_covi" name="_covi" value="1">
+                  <div class="slider round"></div>
+                </label>
+            </div>
+            <div style="display: inline-block">
+                <div class="text" style="top:10px;">候选个数</div><div class="range" id = 'numrange'>{{ _num }}</div>
+                <input id="_num" name="_num" type="range" step="1" min="1" max="5" value="{{ _num }}">
+            </div>
+            <div style="display: inline-block">
+                <div class="text" style="top:10px;">生成长度</div><div class="range" id = 'lenrange'>{{ _len }}</div>
+                <input id="_len" name="_len" type="range" step="10" min="10" max="100" value="{{ _len }}">
+            </div>
+{#            <div style="display: inline-block">#}
+{#                <div class="text">自由度</div><div class="range" id = 'temprange'>{{ _temp }}</div>#}
+{#                <input id="_temp" name="_temp" type="range" step="0.1" min="0" max="1" value="{{ _temp }}">#}
+{#            </div>#}
+        </div>
+        <div class = 'right'>
+            <textarea class="form-control" id="raw_text" name="raw_text" placeholder="输入文本"></textarea>
+        </div>
+    </form>
+</div>
+
+{#<div class = "res">#}
+{##}
+{#    <div class="outputs" id = 'outputtext'>#}
+{#        {% if results %}#}
+{#        <div class="text">#}
+{#        {% for file in results_cont %}#}
+{#            <div class="title2" onclick="addText('{{ file }}')">{{ file }}</div>#}
+{#        {% endfor %}#}
+{#    {% else %}#}
+{#        <div class ="defalut" >请输入开头，点击“生成”</div>#}
+{#    {% endif %}#}
+{#    </div>#}
+{#</div>#}
+{#</div>#}
+
+<style>
+
+    input[type="range"] {
+        display: inline-block;
+        -webkit-appearance: none;
+        background-color: #bdc3c7;
+        width: 100px;
+        height: 5px;
+        border-radius: 5px;
+        margin: 25px;
+        margin-left: 10px;
+        outline: 0;
+    }
+    input[type="range"]::-webkit-slider-thumb {
+        -webkit-appearance: none;
+        background-color: #49a9ee;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        border: 2px solid white;
+        cursor: pointer;
+        transition: 0.3s ease-in-out;
+    }
+    input[type="range"]::-webkit-slider-thumb:hover {
+        background-color: white;
+        border: 2px solid #49a9ee;
+    }
+    input[type="range"]::-webkit-slider-thumb:active {
+        transform: scale(1.2);
+    }
+
+    .switch {
+        position: relative;
+        display: inline-block;
+        width: 30px;
+        height: 17px;
+        top:10px;
+        margin-left: 10px;
+        margin-right: 25px;
+    }
+
+    .switch input {display:none;}
+
+    .slider {
+        position: absolute;
+        cursor: pointer;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background-color: #ccc;
+        -webkit-transition: .4s;
+        transition: .4s;
+    }
+
+    .slider:before {
+        position: absolute;
+        content: "";
+        height: 13px;
+        width: 13px;
+        left: 2px;
+        bottom: 2px;
+        background-color: white;
+        -webkit-transition: .4s;
+        transition: .4s;
+    }
+
+    input:checked + .slider {
+        background-color: #2196F3;
+    }
+
+    input:focus + .slider {
+        box-shadow: 0 0 1px #2196F3;
+    }
+
+    input:checked + .slider:before {
+        -webkit-transform: translateX(13px);
+        -ms-transform: translateX(13px);
+        transform: translateX(13px);
+    }
+
+    /* Rounded sliders */
+    .slider.round {
+        border-radius: 34px;
+    }
+
+    .slider.round:before {
+        border-radius: 50%;
+    }
+
+    body{
+        {#background: #f9fafe;#}
+        background: white;
+    }
+
+    {#大标题#}
+    .page-header{
+        padding-bottom: 9px;
+        padding-top: 9px;
+        margin:20px;
+        margin-left: 0;
+    }
+
+    {#左右分块#}
+    .left{
+        width:600px;
+        border: 0 solid;
+        {#background: #EBF1FB;#}
+        float:left;
+        margin-left: 20px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+    }
+    .right{
+        width:100%;
+        border: 0 solid;
+        background: #EBF1FB;
+        float:right;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+    }
+    .wtf{
+        display: inline-block;
+        width:100%;
+        float: right;
+        border: 0 solid;
+    }
+
+    @media screen and (max-width: 1000px) {
+        #submit {
+            float: none;
+        }
+        .left{
+            display: block;
+            width:100%;
+            border: 0 solid;
+            margin-left: 0;
+        }
+        .right{
+            display:block;
+            width: 100%;
+            border: 0 solid;
+            {#box-shadow:5px 5px 5px lightgray;#}
+        }
+    }
+
+      {#输出框#}
+    .outputs::-webkit-scrollbar{
+				display: none;
+    }
+    .outputs{
+        word-wrap:break-word;
+        word-break:break-all;
+        overflow-y: scroll;
+        -ms-overflow-style:none; /* Edge */
+        {#background: #f9fafe;#}
+        margin-top: 55px;
+        width: 100%;
+        height: 300px;
+        padding: 10px;
+        font-size: 18px;
+        border: 1px #f5f5f5 solid;
+        border-radius: 10px;
+        box-shadow: 0 0 0 0;
+    }
+    {#输入框#}
+    textarea#raw_text.form-control{
+        height: 370px;
+        width: 100%;
+        padding: 30px;
+        resize:none;
+        border: none;
+        box-shadow: 0 0 0 0;
+        background: #EBF1FB;
+        font-size:18px;
+        -ms-overflow-style:none; /* Edge */
+	    scrollbar-width: none;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+    }
+    textarea#raw_text::-webkit-scrollbar{
+				display: none;
+    }
+
+    {#提交按钮#}
+    #submit {
+        display:block;
+        float: left;
+        margin: 10px;
+        margin-left: 0;
+        {#box-shadow:3px 3px 5px lightgray;#}
+        padding: 6px 15px;
+        background: #1a73e8;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        border-radius: 10px;
+        font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+        font-size: 15px;
+        color: #ffffff;
+        text-decoration: none;
+        }
+    #submit:hover {
+        {#background: url(../static/transhover.png);#}
+        {#background-size:100%,100%;#}
+        color: #1a73e8;
+        background: #ffffff;
+        text-decoration: none;
+    }
+
+    .title2 {
+        width: 600px;
+        padding: 10px;
+        font-size:18px;
+        font-weight:bold;
+        word-wrap:break-word;
+    }
+    .title2:hover{
+        background: #c6dafc;
+    }
+    .text{
+        text-indent: 0;
+        font-size:15px;
+        font-weight:normal;
+        display: inline-block;
+    }
+    .range{
+        text-indent: 0;
+        font-size:15px;
+        font-weight:normal;
+        color: #e81b16;
+        margin-left: 5px;
+        display: inline-block;
+    }
+
+    {#复制按钮#}
+    #copy {
+        width: 20px;
+        height: 20px;
+        cursor: pointer;
+        float: right;
+        display: block;
+        margin-top: 15px;
+        margin-right: 15px;
+        padding-top: 8px;
+        background: url(../static/copycommon.png);
+    }
+    #copy:hover {
+        background: url(../static/copyhover.png);
+    }
+
+    {#清空按钮#}
+    #delete {
+        width: 16px;
+        height: 16px;
+        cursor: pointer;
+        float: right;
+        display: block;
+        margin-top: 20px;
+        margin-right: 5px;
+        padding-top: 8px;
+        background: url(../static/deletecommon.png);
+
+    }
+    #delete:hover {
+        background: url(../static/deletehover.png);
+    }
+
+</style>
+<script type="text/javascript">
+    var _covi = {{ _covi }};
+    if (_covi===1){
+        $("#_covi").attr("checked", true);
+    }
+//js代码监听效果，需要绑定监听事件，代码如下：
+
+    var lenValue = function(){
+        document.getElementById("lenrange").innerHTML = document.getElementById('_len').value;
+    };
+    var numValue = function(){
+        document.getElementById("numrange").innerHTML = document.getElementById('_num').value;
+    };
+
+    //绑定input监听事件
+    document.getElementById('_len').addEventListener("input", lenValue);
+    document.getElementById('_num').addEventListener("input", numValue);
+
+    $(function() {
+        $('#submit').click(
+            function()
+            {
+                layer.msg('正在生成',
+                {
+                anim: 4, //动画效果
+                icon: 16,
+                shade: 0.5, //遮罩层透明度
+                shadeClose: false, //点击遮罩层关闭
+                time: 0, //不自动关闭
+                });
+            })
+    });
+    var er={{ error }};
+    if (er===1){ alert("输入不能为空！请输入原文本！");}
+    else {
+        document.getElementById("raw_text").value = '{{ raw }}';
+    }
+    function addText(text) {
+        document.getElementById("raw_text").value = document.getElementById("raw_text").value + text;
+        wBox.close()
+    }
+    function copyText(){
+        //获取input对象
+        var obj = document.getElementById("raw_text");
+        if (obj.value.length===0){
+            alert("内容为空！");
+        }
+        else
+        {
+            //选择当前对象
+            obj.select();
+            try {
+                //进行复制到剪切板
+                if (document.execCommand("Copy")) {
+                    //如果复制成功
+                    alert("复制成功！");
+                } else {
+                    //如果复制失败
+                    alert("复制失败！");
+                }
+            } catch (err) {
+                //如果报错
+                alert("复制错误！")
+            }
+        }
+    }
+    function deleteText(){
+        //获取input对象
+        {#document.getElementById('choice').value = 0;#}
+        document.getElementById("raw_text").value = '';
+        }
+    var wBox=$("#wbox1").wBox({
+        title: "候选结果",
+        html:'\
+        <div id="emoBox">\
+        <div id="qx-topics-distrib">\
+        <div class="outputs" id = \'outputtext\' style = "margin: 0;">\
+        {% if results %}\
+        <div class="text">\
+        {% for file in results_cont %}\
+            <div class="title2" onclick="addText(\'{{ file }}\')">{{ file }}</div>\
+        {% endfor %}\
+    {% endif %}\
+    </div>\
+        </div>\
+        </div>',
+    });
+    function show() {
+        wBox.showBox()
+    }
+    if (er===-1){
+        wBox.showBox();
+    }
+
+</script>
+
+{% endblock %}

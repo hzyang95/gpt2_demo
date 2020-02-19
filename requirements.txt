@@ -1,0 +1,10 @@
+chardet
+flask
+flask_bootstrap
+flask_wtf
+requests
+ujson
+tqdm
+jieba
+eventlet
+pyltp

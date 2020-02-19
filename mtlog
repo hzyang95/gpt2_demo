@@ -1,0 +1,852 @@
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Dec/2019 10:49:08] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 10:49:10] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Dec/2019 10:51:49] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 10:51:51] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 10:52:29] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Dec/2019 10:53:12] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 10:53:14] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Dec/2019 14:38:20] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Dec/2019 21:41:17] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 21:41:17] "[37mGET /static/scir%28已去底%29.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 21:41:17] "[37mGET /static/deletecommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 21:41:17] "[37mGET /static/copycommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 21:41:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Dec/2019 21:43:01] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 21:43:01] "[37mGET /static/logo.png HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Dec/2019 21:45:41] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 21:45:44] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Dec/2019 21:46:34] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Dec/2019 21:51:57] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Dec/2019 21:52:30] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 21:52:31] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Dec/2019 21:52:59] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 21:52:59] "[37mGET /static/logopengcheng.png HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Dec/2019 21:53:45] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 21:53:47] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 21:53:47] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 21:55:08] "[37mGET /static/copyhover.png HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Dec/2019 22:05:21] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [16/Dec/2019 22:05:47] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [16/Dec/2019 22:05:47] "[37mGET /static/logolong.png HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 13:16:38] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 13:16:38] "[36mGET /static/logolong.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [17/Dec/2019 13:16:38] "[36mGET /static/deletecommon.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [17/Dec/2019 13:16:38] "[36mGET /static/copycommon.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [17/Dec/2019 13:16:41] "[1m[35mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [17/Dec/2019 13:16:41] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 13:16:41] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 13:16:41] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 13:16:41] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 13:16:41] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 13:16:41] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 13:17:09] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 13:17:12] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 13:17:35] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 13:17:37] "[1m[35mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [17/Dec/2019 13:17:37] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 13:17:37] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 13:17:37] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 13:17:37] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 13:17:37] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 13:17:37] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 13:18:01] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 13:18:03] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 16:23:23] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 16:35:10] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 16:35:26] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 16:36:17] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 16:36:22] "[36mGET /static/copyhover.png HTTP/1.1[0m" 304 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 16:39:00] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 16:39:13] "[36mGET /static/logopengcheng.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [17/Dec/2019 16:39:31] "[37mGET /static/deletehover.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 16:39:33] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 16:40:15] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 16:41:29] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 16:42:55] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 16:46:31] "[1m[35mGET / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [17/Dec/2019 16:46:31] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 16:46:31] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 16:46:31] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 16:46:31] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 16:46:31] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [17/Dec/2019 16:46:31] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 16:46:49] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 16:47:10] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 16:47:33] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 16:50:49] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [17/Dec/2019 16:51:19] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 13:58:33] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 13:58:33] "[37mGET /static/logopengcheng.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 13:58:33] "[37mGET /static/deletecommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 13:58:33] "[37mGET /static/copycommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 13:58:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+127.0.0.1 - - [19/Dec/2019 13:58:36] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 13:58:39] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:01:33] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:01:49] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:03:58] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:03:58] "[37mGET /static/copyhover.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:04:10] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:04:42] "[37mGET /static/deletehover.png HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:10:18] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:10:24] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:10:27] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:10:33] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:10:35] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:10:37] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:10:38] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:10:39] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:10:40] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:10:41] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:10:43] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:10:45] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:10:46] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:11:41] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:13:38] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:13:41] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:13:54] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:13:56] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:13:57] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:13:58] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:13:58] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:13:59] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:13:59] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:00] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:01] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:01] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:02] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:10] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:11] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:13] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:13] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:14] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:15] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:15] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:15] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:15] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:16] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:17] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:17] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:17] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:18] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:18] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:19] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:19] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:14:19] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:15:31] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:16:02] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:16:04] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:16:04] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:16:13] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:16:16] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:16:18] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:16:19] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:16:20] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:17:35] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:17:39] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 14:17:42] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:31:07] "[37mGET / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:39:55] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:40:44] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:44:23] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:45:37] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:46:21] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:47:18] "[37mGET / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:48:00] "[37mGET / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:48:18] "[37mGET / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 14:50:37] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 15:10:13] "[37mGET / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 15:13:33] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 15:14:51] "[37mGET / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 15:45:15] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 15:48:26] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 16:26:14] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 16:26:14] "[37mGET /static/trancommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 16:26:15] "[37mGET /static/tranhover.png HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 16:28:05] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 16:28:33] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 16:29:41] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 16:36:59] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 16:44:34] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 17:04:52] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:04:52] "[37mGET /static/transcommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:04:53] "[37mGET /static/transhover.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:05:48] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:05:49] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:05:50] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:05:51] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:05:52] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:05:54] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:05:55] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 17:06:46] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:07:02] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:07:02] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:07:15] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:07:25] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:07:26] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:07:26] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:07:27] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 17:07:46] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:07:49] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:09:08] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:09:09] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:09:10] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:09:10] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 17:09:31] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:09:33] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 17:09:58] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:10:02] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:10:07] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 17:10:16] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 17:10:19] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 18:58:26] "[37mGET / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 19:06:22] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:06:34] "[1m[35mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [19/Dec/2019 19:06:34] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:06:34] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:06:34] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:06:34] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:06:34] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:06:34] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 19:08:08] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:08:13] "[1m[35mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [19/Dec/2019 19:08:13] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:08:13] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:08:13] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:08:13] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:08:13] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:08:13] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 19:08:48] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:08:52] "[1m[35mPOST / HTTP/1.1[0m" 500 -
+127.0.0.1 - - [19/Dec/2019 19:08:52] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:08:52] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:08:52] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:08:52] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:08:52] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:08:52] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 19:09:42] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:09:45] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 19:10:31] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:10:33] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:10:41] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 19:11:38] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:11:42] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 19:11:58] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:12:05] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 19:14:20] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:14:23] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 19:15:08] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:15:18] "[37mPOST / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 19:15:24] "[37mPOST / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 20:19:04] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:19:04] "[37mGET /static/logopengcheng.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:19:06] "[37mGET /static/deletecommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:19:06] "[37mGET /static/transcommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:19:06] "[37mGET /static/copycommon.png HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 20:20:10] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:20:16] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:20:16] "[37mGET /static/logopengcheng.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:20:17] "[37mGET /static/copycommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:20:17] "[37mGET /static/deletecommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:20:17] "[37mGET /static/transcommon.png HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 20:20:54] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 20:22:40] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:22:46] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:22:46] "[37mGET /static/logopengcheng.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:22:47] "[37mGET /static/copycommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:22:47] "[37mGET /static/deletecommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:22:47] "[37mGET /static/transcommon.png HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 20:25:34] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:25:39] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:25:39] "[37mGET /static/logopengcheng.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:25:43] "[37mGET /static/transcommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:25:43] "[37mGET /static/copycommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:25:43] "[37mGET /static/deletecommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:25:46] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:25:46] "[37mGET /static/logopengcheng.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:25:46] "[37mGET /static/deletecommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:25:46] "[37mGET /static/transcommon.png HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 20:25:46] "[37mGET /static/copycommon.png HTTP/1.1[0m" 200 -
+ * Detected change in 'E:\\CS\\project\\machine_translation_demo\\machine_translation_demo.py', reloading
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:04:50] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:06:12] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:07:45] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:10:33] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:13:50] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:16:43] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:17:39] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:22:31] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:23:12] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:23:53] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:24:42] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:39:43] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:43:07] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:43:28] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:44:02] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:44:22] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:47:40] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:49:43] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:54:40] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [19/Dec/2019 21:55:23] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [19/Dec/2019 22:43:51] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/Dec/2019 11:05:27] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Dec/2019 11:05:27] "[36mGET /static/logopengcheng.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [20/Dec/2019 11:05:27] "[36mGET /static/deletecommon.png HTTP/1.1[0m" 304 -
+127.0.0.1 - - [20/Dec/2019 11:05:27] "[36mGET /static/copycommon.png HTTP/1.1[0m" 304 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/Dec/2019 11:06:50] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/Dec/2019 11:07:42] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/Dec/2019 11:08:59] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/Dec/2019 11:10:39] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/Dec/2019 11:13:13] "[37mGET / HTTP/1.1[0m" 200 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/Dec/2019 11:16:33] "[37mGET / HTTP/1.1[0m" 200 -
+127.0.0.1 - - [20/Dec/2019 11:16:36] "[36mGET /static/copyhover.png HTTP/1.1[0m" 304 -
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger PIN: 218-368-649
+ * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+127.0.0.1 - - [20/Dec/2019 11:19:34] "[37mGET / HTTP/1.1[0m" 200 -
