@@ -5,9 +5,11 @@
 
 {% block page_content %}
 
-<img src="{{ url_for('static', filename='scir(已去底).png')}}" align="right" width="150" hspace="5" vspace="5" style="padding-top: 30px">
+<img src="{{ url_for('static', filename='scir(已去底).png')}}" id = 'icon' align="right" width="150" hspace="5" vspace="5" >
+
+
 <div class="page-header">
-    <a href="/" style="text-decoration-line:none;color: #283966"><h2>公文自动生成器</h2></a>
+    <a href="/" style="text-decoration-line:none;color: #283966"><h2 style="margin-top: 10px">公文自动生成器</h2></a>
 </div>
 
 <script type="text/javascript" src="http://static.solaridc.com/jquery/jquery-lasted-min.js"></script>
@@ -23,7 +25,7 @@
     <form action = "http://localhost:5000/" method = "post">
 {#    <form action = "http://39.98.138.178:45800/" method = "post">#}
         <input class="btn btn-default" id="submit" name="submit" type="submit" value="生成">
-        <div class = 'left'>
+        <div class = 'config'>
             <div style="display: inline-block">
                 <div class="text" style="top:10px;">疫情相关</div>
                 <label class="switch">
@@ -44,7 +46,7 @@
 {#                <input id="_temp" name="_temp" type="range" step="0.1" min="0" max="1" value="{{ _temp }}">#}
 {#            </div>#}
         </div>
-        <div class = 'right'>
+        <div class = 'content'>
             <textarea class="form-control" id="raw_text" name="raw_text" placeholder="输入文本"></textarea>
         </div>
     </form>
@@ -162,14 +164,15 @@
 
     {#大标题#}
     .page-header{
-        padding-bottom: 9px;
-        padding-top: 9px;
-        margin:20px;
+        margin:10px;
         margin-left: 0;
+        margin-bottom: 0;
     }
 
+
+
     {#左右分块#}
-    .left{
+    .config{
         width:600px;
         border: 0 solid;
         {#background: #EBF1FB;#}
@@ -179,7 +182,7 @@
         -moz-border-radius: 10px;
         border-radius: 10px;
     }
-    .right{
+    .content{
         width:100%;
         border: 0 solid;
         background: #EBF1FB;
@@ -195,23 +198,7 @@
         border: 0 solid;
     }
 
-    @media screen and (max-width: 1000px) {
-        #submit {
-            float: none;
-        }
-        .left{
-            display: block;
-            width:100%;
-            border: 0 solid;
-            margin-left: 0;
-        }
-        .right{
-            display:block;
-            width: 100%;
-            border: 0 solid;
-            {#box-shadow:5px 5px 5px lightgray;#}
-        }
-    }
+
 
       {#输出框#}
     .outputs::-webkit-scrollbar{
@@ -333,6 +320,27 @@
     }
     #delete:hover {
         background: url(../static/deletehover.png);
+    }
+
+    @media screen and (max-width: 1000px) {
+        #submit {
+            float: none;
+        }
+        .config{
+            display: block;
+            width:100%;
+            border: 0 solid;
+            margin-left: 0;
+        }
+        .content{
+            display:block;
+            width: 100%;
+            border: 0 solid;
+            {#box-shadow:5px 5px 5px lightgray;#}
+        }
+        #icon{
+            display: none;
+        }
     }
 
 </style>

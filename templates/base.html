@@ -1,5 +1,38 @@
 {% extends "bootstrap/base.html" %}
+{% block navbar %}
 
+<div class="navbar navbar-default" role="navigation">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar" style="display:none"></span>
+                <span class="icon-bar" style="display:none"></span>
+                <span class="icon-bar" style="display:none"></span>
+            </button>
+            <a class="navbar-brand">公文生成系统</a>
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+
+                <!-- <li><a href="/summary">会议纪要</a></li>
+                 -->
+                <li><a href="http://39.98.138.178:45700/">调研报告</a >
+                <li><a href="http://39.98.138.178:45800/">自动写作</a >
+		         <!--  <li><a href="/doc">新闻改写</a></li>
+ -->
+            </ul>
+        </div>
+    </div>
+</div>
+<style>
+.container-fluid>.navbar-collapse, .container-fluid>.navbar-header, .container>.navbar-collapse, .container>.navbar-header{margin-left: 0;margin-right: 0;}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form{border:0}
+</style>
+{% endblock %}
 
 {% block content %}
 

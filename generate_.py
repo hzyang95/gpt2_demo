@@ -140,7 +140,7 @@ def gen(raw, model, tokenizer, _num, _len, _temp):
     if length == -1:
         length = model.config.n_ctx
     if save_samples:
-        samples_file = open('samples.txt', 'w', encoding='utf8')
+        samples_file = open('samples.txt', 'a', encoding='utf8')
     res = []
     while True:
         raw_text = raw
@@ -174,11 +174,11 @@ def gen(raw, model, tokenizer, _num, _len, _temp):
                 print(text)
                 res.append(text[len(raw_text):])
                 if save_samples:
-                    samples_file.write(info)
-                    samples_file.write(text)
+                    # samples_file.write(info)
+                    samples_file.write(raw_text+text)
                     samples_file.write('\n')
-                    samples_file.write('=' * 90)
-                    samples_file.write('\n' * 2)
+                    # samples_file.write('=' * 90)
+                    # samples_file.write('\n' * 2)
         print("=" * 80)
         if generated == nsamples:
             # close file when finish writing.
